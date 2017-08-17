@@ -1,0 +1,1 @@
+Two trivial examples of fufilling lex chabot requests using python on Lambda. Two examples, one that uses canned answers to respond to basic qeuestions about AWS and another that tells users about how good other playesr are in a vido game by pulling info from dynamodb.
